@@ -14,10 +14,10 @@ void bubble_sort ();
 int main (int argc, char *argv[])
 {
 
-//  initialize_array ();
+  initialize_array ();
   
   char string[] = "This is a string that I will copy.";
-//  copy_string (string);
+  copy_string (string);
   
   bubble_sort ();
 
