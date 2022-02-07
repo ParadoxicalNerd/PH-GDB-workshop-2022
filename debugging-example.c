@@ -55,7 +55,6 @@ void copy_string (char *string)
   
   printf ("Copied string: %s\n", copy);
   
-  free (copy);
 }
 
 /*
