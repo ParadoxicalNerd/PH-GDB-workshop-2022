@@ -24,8 +24,6 @@ int main(void) {
   }
   printf("\n");
 
-  free(char_arr);
-
   return 0;
 }
 
